@@ -139,6 +139,7 @@ GET Request
 ### PUT Request
 
 <img width="1286" height="729" alt="Captura Postman3_3" src="https://github.com/user-attachments/assets/1dac9b3f-e3e9-4926-8579-c757577724ce" />
+
 ### DELETE Request
 
 <img width="1286" height="730" alt="Captura Postman4" src="https://github.com/user-attachments/assets/0d3cb5e8-b14e-466e-8672-be73b22bde03" />
