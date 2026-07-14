@@ -130,27 +130,27 @@ GET Request
 
 ### GET Request
 
-(<img width="1280" height="733" alt="Captura Postman2_" src="https://github.com/user-attachments/assets/0e78a109-4609-49fa-8f3b-02d0b8ee56cf" />)
+<img width="1280" height="733" alt="Captura Postman2_" src="https://github.com/user-attachments/assets/0e78a109-4609-49fa-8f3b-02d0b8ee56cf" />
 
 ### POST Request
 
-(<img width="1282" height="733" alt="Captura Postman2_5_" src="https://github.com/user-attachments/assets/801bf03a-d677-44f2-a512-aa2fb43d3cc6" />)
+<img width="1282" height="733" alt="Captura Postman2_5_" src="https://github.com/user-attachments/assets/801bf03a-d677-44f2-a512-aa2fb43d3cc6" />
 
 ### PUT Request
 
-(<img width="1286" height="729" alt="Captura Postman3_3" src="https://github.com/user-attachments/assets/1dac9b3f-e3e9-4926-8579-c757577724ce" />)
+<img width="1286" height="729" alt="Captura Postman3_3" src="https://github.com/user-attachments/assets/1dac9b3f-e3e9-4926-8579-c757577724ce" />
 ### DELETE Request
 
-(<img width="1286" height="730" alt="Captura Postman4" src="https://github.com/user-attachments/assets/0d3cb5e8-b14e-466e-8672-be73b22bde03" />)
+<img width="1286" height="730" alt="Captura Postman4" src="https://github.com/user-attachments/assets/0d3cb5e8-b14e-466e-8672-be73b22bde03" />
 
 
 ### Collection
 
-![Collection]
+
 
 ### Tests Passed
 
-![Tests]
+
 
 
 ---
